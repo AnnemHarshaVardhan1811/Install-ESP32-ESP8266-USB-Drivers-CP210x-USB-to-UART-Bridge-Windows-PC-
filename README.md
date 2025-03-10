@@ -25,6 +25,7 @@
 # **Testing the CP210x USB Drivers**
 
 **Click the search bar.**
+
 ![image](https://github.com/user-attachments/assets/91f1f29f-a1ed-469e-acaf-5da443954f5f)
 
 **Search for “Device Manager” and open the control panel:**
